@@ -1,0 +1,1 @@
+../../Docs/en/Install/qsos-o3s-install_en.md
